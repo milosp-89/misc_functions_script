@@ -1,7 +1,7 @@
 -- function for extracting geo locations (lang/long)
 
-use [xxx]
-go;
+use [xxx];
+go
 
 create function [dbo].[geo_loc] (
   @column nvarchar(max),
