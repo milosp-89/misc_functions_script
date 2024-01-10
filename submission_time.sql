@@ -1,7 +1,7 @@
 -- function for taking submission time
 
-USE [xxx]
-go;
+USE [xxx];
+go
 
 create function [dbo].[submission_time] (@start_question datetime, @submitted_at_question nvarchar(max))
 returns decimal(10, 2)
