@@ -1,8 +1,8 @@
 -- function to remove spaces and symbols from a text/string
 -- add more symbols if needed!
 
-use [xxx]
-go;
+use [xxx];
+go
 
 create function [dbo].[rem_space_symb]
 (
