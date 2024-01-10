@@ -1,7 +1,7 @@
 -- function to get/extract string/text between commas
 
-use [xxx]
-go;
+use [xxx];
+go
 
 create function [dbo].[get_str] 
 (
