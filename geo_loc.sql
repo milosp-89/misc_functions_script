@@ -1,4 +1,4 @@
--- function for extracting geo location (lang/long)
+-- function for extracting geo locations (lang/long)
 
 use [xxx]
 go;
@@ -22,5 +22,5 @@ begin
 		'.', '_'), ',', '.'), @position), '_', '.')),  @value, '')
 
 return @output_string
-end
-go;
+end;
+go
