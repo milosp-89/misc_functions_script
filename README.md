@@ -1,2 +1,2 @@
 # misc_functions_script
-Various sql functions
+various sql functions for different purposes
